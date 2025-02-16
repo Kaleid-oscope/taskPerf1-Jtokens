@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="sudoku">Sudoku</string>
+    <string name="new_game">New Game</string>
+    <string name="daily">daily</string>
+    <string name="_Daily">Daily</string>
+    <string name="daily_challenge">Daily Challenge</string>
+    <string name="classic">Classic</string>
+</resources>
